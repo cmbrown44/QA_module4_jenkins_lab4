@@ -10,3 +10,4 @@ pipeline {
             steps {
                 sh "sh deploy.sh"
             }
+        }
