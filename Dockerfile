@@ -6,4 +6,3 @@ RUN npm install
 EXPOSE 5000
 # Create an entrypoint
 ENTRYPOINT ["npm", "start"]
-
